@@ -2,5 +2,6 @@
 - 👀 I’m interested in Learning all that i can...
 - 🌱 I’m currently learning Arduino and Programming in general...
 
+My language is spanish but im learning a bit of english my goal in this moment is learn english to the future before that i will have 18
 <!---
 --->
